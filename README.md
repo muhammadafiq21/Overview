@@ -14,11 +14,11 @@
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only) -->
 
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/aryanda-rizky-pratama-b364a11a4/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/aryanda-rizky-pratama-b364a11a4/#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/muhammad-afiq-2a097314b/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/muhammad-afiq-2a097314b/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/aryandarizky7/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/aryandarizky7/#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/afiqmuhammad21/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/afiqmuhammad21/#gh-dark-mode-only)
 
 ### Languages and Tools:
 
