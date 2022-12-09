@@ -38,13 +38,10 @@
 
 <!-- Project-POST-LIST:START -->
 
-- Travel Website [Find Your Place](https://find-your-place.vercel.app/)
-- Biography Website [Biography](https://aryanda04.github.io/Biography/)
-- Restaurant Catalogue with PWA + Automation testing [FSY For Your Stomach](https://catalog-restaurant.vercel.app/)
-- Movie Catalogue Using TMDB [Movie Catalogue](https://movie-cataloguetmdb.netlify.app)
-- Sanbercode React JS Batch 33 [JobiFy](https://aryanda-jobify.netlify.app/)
-- Aryanda Rizky Website [Portfolio Website](https://aryanda04.github.io/portfolio/)
-- Cat Website Using The Cat API [Mew World](https://meow-world-k2ncf4rom-aryanda04.vercel.app/)
+
+- Restaurant Catalogue with PWA + Automation testing [Resto](resto-catalog.vercel.app/)
+- News [News]([https://movie-cataloguetmdb.netlify.app](https://news-wheat.vercel.app/))
+
 
 <!-- Project-POST-LIST:END -->
 
