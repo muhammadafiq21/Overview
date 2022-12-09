@@ -40,7 +40,7 @@
 
 
 - Restaurant Catalogue with PWA + Automation testing [Resto](https://resto-catalog.vercel.app/)
-- News [News]([https://movie-cataloguetmdb.netlify.app](https://news-wheat.vercel.app/)
+- News [News](https://news-wheat.vercel.app/)
 
 
 <!-- Project-POST-LIST:END -->
