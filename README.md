@@ -39,8 +39,8 @@
 <!-- Project-POST-LIST:START -->
 
 
-- Restaurant Catalogue with PWA + Automation testing [Resto](resto-catalog.vercel.app)
-- News [News]([https://movie-cataloguetmdb.netlify.app](https://news-wheat.vercel.app)
+- Restaurant Catalogue with PWA + Automation testing [Resto](https://resto-catalog.vercel.app/)
+- News [News]([https://movie-cataloguetmdb.netlify.app](https://news-wheat.vercel.app/)
 
 
 <!-- Project-POST-LIST:END -->
