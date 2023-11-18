@@ -4,7 +4,7 @@
 
 <h3 align="center">Student from 🏫 Pertamina University</h3>
 
-- 🌱 I’m currently Fullstack Developer
+- 🌱 I’m currently Data Analyst & Fullstack Developer 
 - ⚡ Hobby : Basket 
 
 
