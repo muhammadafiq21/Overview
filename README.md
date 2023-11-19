@@ -2,7 +2,7 @@
 
 ---
 
-<h2 align="center"> - 🌱 I’m currently Data Analyst & Fullstack Developer</h3>
+<h2 align="center">Data Analyst & Fullstack Developer</h3>
 
 
 
