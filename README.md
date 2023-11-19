@@ -2,10 +2,11 @@
 
 ---
 
-<h3 align="center">Student from 🏫 Pertamina University</h3>
+<h3 align="center">
+  - 🌱 I’m currently Data Analyst & Fullstack Developer 
+- ⚡ Hobby : Basket </h3>
 
-- 🌱 I’m currently Data Analyst & Fullstack Developer 
-- ⚡ Hobby : Basket 
+
 
 
 ### Connect with me:
